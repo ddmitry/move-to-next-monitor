@@ -7,6 +7,13 @@ in this script. Sweet! Glad it can help others.
 
 I mapped `ctrl+alt+n` to exectute this script.
 
+## Install dependencies
+
+Ubuntu 12.04+
+```
+sudo apt-get install xdotool wmctrl
+```
+
 ## Usage
 
 ```
